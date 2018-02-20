@@ -14,5 +14,6 @@ else if(number<0)
 else
 {cout<<" The given number "<<number<<" is neither positive nor negative"<<endl;
 }
+  return 0;
 }
 
