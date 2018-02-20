@@ -12,7 +12,7 @@ else if(number<0)
 {cout<<" The given number "<<number<<" is negative"<<endl;
 }
 else
-{cout<<" The given number "<<number<<" is neither positive nor negative"<<endl;
+{cout<<" The given number "<<number<<" is neither positive nor negative(zero)"<<endl;
 }
   return 0;
 }
